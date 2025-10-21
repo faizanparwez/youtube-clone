@@ -1,0 +1,30 @@
+p{
+    font-family: Roboto,Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body{
+    background-color: rbg(248,24,248);
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+    margin: 0;
+}
+
+
+
+.notifications-count{
+    position: absolute;
+    top:-2px;
+    right: -5px;
+    background-color: red;
+    color: white;
+    font-family: Roboto,Arial;
+    font-size: 11px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 2px;
+    padding-top:2px ;
+    border-radius: 10px;
+}
